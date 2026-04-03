@@ -4,24 +4,24 @@
         <title>Glowcast</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Fri, 03 Apr 2026 08:54:19 -0400</pubDate>
+            <pubDate>Fri, 03 Apr 2026 09:18:28 -0400</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/valyriaapps/glowcast-releases/releases/download/v1.0.1-3/Glowcast-3.zip" length="5956807" type="application/octet-stream" sparkle:edSignature="JcvC4jJRjEa0I1dBeT1XoozWumWgGJEAQL1o3zk7xtwDIQVmhvZNnqyyJdMPShSHbByBwHjR4J4UtIsiHkPYAA=="/>
+            <enclosure url="https://github.com/valyriaapps/glowcast-releases/releases/download/v1.0.1-3/Glowcast-3.zip" length="5956834" type="application/octet-stream" sparkle:edSignature="8cQxdeUZAgivk9he3D5IcFHKxQkf4SJPBf3BvPAVwizWF+d1ZL2MsSF2lUD8UD32d4PrfLJIJMUhi1O6HvyjCg=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/valyriaapps/glowcast-releases/releases/download/v1.0.1-3/Glowcast3-2.delta" sparkle:deltaFrom="2" length="4494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WHA6GyL0yjZ2r2lD2HKAAEb803gSIEAb501OUV6EgheBFoZJ8XD3TNHAzTYsuzRGUzx88XcYoyraER/A57uwCg=="/>
+                <enclosure url="https://github.com/valyriaapps/glowcast-releases/releases/download/v1.0.1-3/Glowcast3-2.delta" sparkle:deltaFrom="2" length="4510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nMgpA6Q7Tkf58F5mVeL/sFVU9G5AbpTDit9G06t9Yc19D1F3yySf4+2fGiWHEdqA2TBeAgfHEyNcRkJQlvTSAg=="/>
             </sparkle:deltas>
         </item>
         <item>
             <title>1.0.1</title>
-            <pubDate>Fri, 03 Apr 2026 08:53:37 -0400</pubDate>
+            <pubDate>Fri, 03 Apr 2026 09:17:32 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/valyriaapps/glowcast-releases/releases/download/v1.0.1-3/Glowcast-2.zip" length="6010539" type="application/octet-stream" sparkle:edSignature="ClSiEUBuq9hlzXa/uOODmjBujkh8anLoZLTLnjYE1+Ns1KHrmSXX17qx6jVeT7CMpxqLq4vjoYIcdoBDmISUDg=="/>
+            <enclosure url="https://github.com/valyriaapps/glowcast-releases/releases/download/v1.0.1-3/Glowcast-2.zip" length="5956840" type="application/octet-stream" sparkle:edSignature="sG3+gvrU8vbK0FLoUseFHJu7tuiFLtvmI9SQSEXdb5ZH+Nn2Jj8NrBacqUXvlOnn3jznbafz8i/8gkLmDa1OAw=="/>
         </item>
     </channel>
 </rss>
