@@ -3,12 +3,12 @@
     <channel>
         <title>Glowcast</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Sun, 05 Apr 2026 08:47:17 -0400</pubDate>
+            <title>1.0.7</title>
+            <pubDate>Mon, 06 Apr 2026 09:43:27 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/valyriaapps/glowcast-releases/releases/download/v1.0.6-1/Glowcast-1.0.6.dmg" length="4899920" type="application/octet-stream" sparkle:edSignature="BHAfSNtYrcGXTSJ/Bd4SotYAMkPOrPElPpHnrBzAVKu6mprfz9TqR0KcHqwArGUavJsBcxmPZyiA9H87eMAUBA=="/>
+            <enclosure url="https://github.com/valyriaapps/glowcast-releases/releases/download/v1.0.7-1/Glowcast-1.0.7.dmg" length="4915162" type="application/octet-stream" sparkle:edSignature="IPYXOmAp1s/ybHAjKTCimSMOzekSDuGGpHeQF9LOmHkVgs2CrhlVGQpDmbGfkSmld3L8SI7KERvjJJhn33ExDA=="/>
         </item>
     </channel>
 </rss>
